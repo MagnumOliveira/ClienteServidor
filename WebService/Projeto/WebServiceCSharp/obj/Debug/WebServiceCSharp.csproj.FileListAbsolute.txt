@@ -1,0 +1,8 @@
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\bin\WebServiceCSharp.dll.config
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\bin\WebServiceCSharp.dll
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\bin\WebServiceCSharp.pdb
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\bin\CustomerCSharp.dll
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\bin\CustomerCSharp.pdb
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\obj\Debug\WebServiceCSharp.csprojResolveAssemblyReference.cache
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\obj\Debug\WebServiceCSharp.dll
+C:\Users\DCTECNOLOGIA\Downloads\Projeto\WebServiceCSharp\obj\Debug\WebServiceCSharp.pdb

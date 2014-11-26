@@ -1,0 +1,7 @@
+bin\WebServiceCSharp.dll
+bin\WebServiceCSharp.pdb
+bin\CustomerCSharp.dll
+bin\CustomerCSharp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WebServiceCSharp.dll
+obj\Debug\WebServiceCSharp.pdb

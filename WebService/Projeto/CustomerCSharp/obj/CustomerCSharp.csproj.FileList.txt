@@ -1,0 +1,5 @@
+bin\Debug\CustomerCSharp.dll
+bin\Debug\CustomerCSharp.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomerCSharp.dll
+obj\Debug\CustomerCSharp.pdb
